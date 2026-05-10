@@ -3,8 +3,7 @@
 
 <br/>
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/d54b3a8c-8192-4bf0-9598-9f3bef69023f" />
-)
+<img align="right" alt="Coding" width="350" src="./backgroundGitHub.png">
 
 ## 👨‍💻 About Me
 
