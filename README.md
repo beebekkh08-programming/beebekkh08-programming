@@ -1,4 +1,4 @@
-<img align="center" alt="backgrounImg" width="550" src="./backgroundGitHub.png">
+<img align="center" alt="backgrounImg" width="100%" src="./backgroundGitHub.png">
 
 <h2 align="left">Namaste, I'm Bibek Pudasaini 🫡</h2>
 <h5 align="left">Tech Enthusiast |ㅤ• Programmerㅤ• Web Developerㅤ• Graphic Designer </h5>
