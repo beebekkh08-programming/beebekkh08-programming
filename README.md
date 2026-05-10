@@ -1,6 +1,5 @@
 <h2 align="left">Namaste, I'm Bibek Pudasaini 🫡</h2>
 <h5 align="left">Tech Enthusiast |ㅤ• Programmerㅤ• Web Developerㅤ• Graphic Designer </h5>
-
 <br/>
 
 ## 👨‍💻 About Me
@@ -12,7 +11,6 @@
 - 🚀 Working towards a successful career in the **Software Development** industry
 - 💬 Happy to talk about **Web Development, Career, Tech & Travelling 🏔️**
 - 😄 Fun fact: *"You can either be a slave of your mind or a master of it — the choice is yours."*
-
 <br/>
 
 ## 🛠️ Tech Stack & Tools
@@ -38,13 +36,11 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 <br/>
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-pudasaini-69328a37b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.allabout.bbk.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibek.pudasaini2004@gmail.com)
-
 <br/>
 
 ---
