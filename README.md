@@ -1,5 +1,5 @@
 <h2 align="left">Namaste, I'm Bibek Pudasaini 🙏</h2>
-<h5 align="left"><pre></pre>Tech Enthusiast |  · Programmer  · Web Developer  · Graphic Designer </pre></pre></h5>
+<h5 align="left"><pre>Tech Enthusiast |  · Programmer  · Web Developer  · Graphic Designer </pre></h5>
 
 <br/>
 
