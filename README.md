@@ -1,5 +1,5 @@
-<h2 align="center">Namaste, I'm Bibek Pudasaini 🙏</h2>
-<h5 align="center">Tech Enthusiast | ·Programmer ·Web Developer ·Graphic Designer </h5>
+<h2 align="left">Namaste, I'm Bibek Pudasaini 🙏</h2>
+<h5 align="left">Tech Enthusiast | ·Programmer ·Web Developer ·Graphic Designer </h5>
 
 <br/>
 
@@ -7,13 +7,11 @@
 
 - 🎓 Pursuing **Bachelor in Computer Applications (BCA)**
 - 🌱 Currently learning **JavaScript** and advancing my **Java** skills
-- ⚛️ Exploring **React** and diving deeper into **Frontend Development**
 - 💻 Passionate about building websites, writing clean code, and solving real-world problems through technology
 - 🎨 I blend **code and creativity** — from writing logic to designing visuals
 - 🚀 Working towards a successful career in the **Software Development** industry
 - 💬 Happy to talk about **Web Development, Career, Tech & Travelling 🏔️**
 - 😄 Fun fact: *"You can either be a slave of your mind or a master of it — the choice is yours."*
-- ⚡ Motto: **Share without expecting anything in return**
 
 <br/>
 
@@ -26,10 +24,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Currently Learning**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br/>
 
