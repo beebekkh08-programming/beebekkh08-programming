@@ -1,9 +1,9 @@
+<img align="center" alt="backgrounImg" width="550" src="./backgroundGitHub.png">
+
 <h2 align="left">Namaste, I'm Bibek Pudasaini 🫡</h2>
 <h5 align="left">Tech Enthusiast |ㅤ• Programmerㅤ• Web Developerㅤ• Graphic Designer </h5>
 
 <br/>
-
-<img align="right" alt="Coding" width="350" src="./backgroundGitHub.png">
 
 ## 👨‍💻 About Me
 
