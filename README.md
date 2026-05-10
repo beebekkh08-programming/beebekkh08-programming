@@ -3,7 +3,7 @@
 
 <br/>
 
-
+<img align="right" alt="Coding" width="350" src="./laptopGitHub.png">
 
 ## 👨‍💻 About Me
 
