@@ -2,7 +2,8 @@
 <h5 align="left">Tech Enthusiast |ㅤ• Programmerㅤ• Web Developerㅤ• Graphic Designer </h5>
 <br/>
 
-<img align="center" alt="Coding" width="550" src="./GitHubBackground.png">
+<img align="center" alt="Coding" width="850" src="./GitHubBackground.png">
+</br>
 
 ## 👨‍💻 About Me
 
