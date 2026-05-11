@@ -2,6 +2,8 @@
 <h5 align="left">Tech Enthusiast |ㅤ• Programmerㅤ• Web Developerㅤ• Graphic Designer </h5>
 <br/>
 
+<img align="right" alt="Coding" width="350" src="./GitHubBackground.png">
+
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **Bachelor in Computer Applications (BCA)**
