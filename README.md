@@ -1,9 +1,7 @@
 <h2 align="left">Namaste, I'm Bibek Pudasaini 🫡</h2>
 <h5 align="left">Tech Enthusiast |ㅤ• Programmerㅤ• Web Developerㅤ• Graphic Designer </h5>
-<br/>
 
 <img align="center" alt="Coding" width="750" src="./GitHub_Background.png">
-</br>
 
 ## 👨‍💻 About Me
 
