@@ -8,7 +8,6 @@
 - 🎓 Pursuing **Bachelor in Computer Applications (BCA)**
 - 🌱 Currently learning **JavaScript** and advancing my **Java** skills
 - 💻 Passionate about building websites, writing clean code, and solving real-world problems through technology
-- 🎨 I blend **code and creativity** — from writing logic to designing visuals
 - 🚀 Working towards a successful career in the **Software Development** industry
 - 💬 Happy to talk about **Web Development, Career, Tech & Travelling 🏔️**
 - 😄 Fun fact: *"You can either be a slave of your mind or a master of it — the choice is yours."*
