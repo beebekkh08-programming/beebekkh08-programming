@@ -1,4 +1,4 @@
-<h2 align="left">Namaste, I'm <a href = "https://www.linkedin.com/in/bibek-pudasaini-69328a37b/" style = "color: #082B54;">Bibek Pudasaini</a> 🫡</h2>
+<h2 align="left">Namaste, I'm <a href = "https://www.linkedin.com/in/bibek-pudasaini-69328a37b/">Bibek Pudasaini</a> 🫡</h2>
 <h5 align="left">Tech Enthusiast |ㅤ• Programmerㅤ• Web Developerㅤ• Graphic Designer </h5>
 
 <img align="center" alt="Coding" width="750" src="./GitHub_Background.png">
